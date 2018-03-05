@@ -1,0 +1,41 @@
+Handon Exercise basic:
+
+https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-data-structure.php
+
+-----------------------------------------------------------
+
+
+http://thepythonguru.com/getting-started-with-python/
+
+https://www.learnpython.org/en/Variables_and_Types
+
+https://www.programiz.com/python-programming/tuple#what
+
+https://www.w3resource.com/python/python-tutorial.php
+
+https://pythonprogramming.net/decorators-intermediate-python-tutorial/
+
+
+PYTHON WITH ECLIPSE:
+------------------------
+http://www.vogella.com/tutorials/Python/article.html
+
+
+django install - windows
+
+https://docs.djangoproject.com/en/2.0/howto/windows/
+
+https://www.python-course.eu/sql_python.php
+
+Flask:
+----------
+https://pythonspot.com/flask-web-app-with-python/
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
+
+
+DJANGO: Login Register Code
+---------------------------------------------------
+
+http://netai-nayek.blogspot.in/2014/08/how-to-create-or-registerlogin-and.html
+
+https://medium.com/python-pandemonium/develop-your-first-web-application-in-django-1-10-part-1-52b300851d46

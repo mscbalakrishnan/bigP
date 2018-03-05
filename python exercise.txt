@@ -1,0 +1,50 @@
+Basic part 1
+
+Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them
+Write a Python program to test whether a passed letter is a vowel or not.
+
+https://www.w3resource.com/python-exercises/list/
+
+Write a Python program to get the largest number from a list
+Write a Python program to remove duplicates from a list
+Write a Python program to access dictionary keys element by index
+
+https://www.w3resource.com/python-exercises/tuple/
+
+Write a Python program to unzip a list of tuples into individual lists
+Write a Python program to count the elements in a list until an element is a tuple
+Write a Python program to slice a tuple
+
+https://www.w3resource.com/python-exercises/class-exercises/index.php
+
+Write a Python class to reverse a string word by word
+
+https://www.w3resource.com/python-exercises/data-structures-and-algorithms/index.php
+Write a Python program for sequential search
+
+
+https://www.w3resource.com/python-exercises/file/index.php
+
+Write a Python program to read an entire text file
+Write a Python program to read a file line by line and store it into a list
+Write a Python program to copy the contents of a file to another file
+
+https://www.w3resource.com/python-exercises/python-conditional-statements-and-loop-exercises.php
+
+Write a Python program to convert temperatures to and from celsius, fahrenheit
+
+Write a Python program to check the validity of password input by users
+
+
+
+
+https://www.w3resource.com/python-exercises/python-functions-exercises.php
+
+Write a Python function that accepts a string and calculate the number of upper case letters and lower case 
+Write a Python function that takes a list and returns a new list with unique elements of the first 
+Write a Python function that checks whether a passed string is palindrome or not
+Write a Python program to access a function inside a function
+Write a Python program to detect the number of local variables declared in a function
+
+
+www.intelliontechnology.com/
