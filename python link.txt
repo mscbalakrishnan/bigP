@@ -15,6 +15,10 @@ https://www.w3resource.com/python/python-tutorial.php
 
 https://pythonprogramming.net/decorators-intermediate-python-tutorial/
 
+https://www.geeksforgeeks.org/python-set-5-exception-handling/
+
+https://www.journaldev.com/14329/python-modules?utm_source=website&utm_medium=sidebar&utm_campaign=Python-Sidebar-Widget
+
 
 PYTHON WITH ECLIPSE:
 ------------------------
