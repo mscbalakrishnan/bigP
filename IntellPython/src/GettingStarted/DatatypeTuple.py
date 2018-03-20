@@ -8,5 +8,5 @@ print("t[0:3] = ", t[0:3])
 
 # Generates error
 # Tuples are immutable
-t[0] = 10
+#t[0] = 10
 print(t)
