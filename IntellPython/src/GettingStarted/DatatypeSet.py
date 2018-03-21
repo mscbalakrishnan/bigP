@@ -10,5 +10,7 @@ print(type(a))
 a = {1,2,2,3,3,3}
 print(a)
 
-#slicing wont allow
-print[1]
+
+
+# Since, set are unordered collection, indexing has no meaning. Hence the slicing operator [] does not work. slicing wont allow
+#print[0]
