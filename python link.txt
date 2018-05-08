@@ -35,6 +35,7 @@ Flask:
 ----------
 https://pythonspot.com/flask-web-app-with-python/
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
+https://pythonhow.com/maintaining-your-python-web-app/
 
 
 DJANGO: Login Register Code
